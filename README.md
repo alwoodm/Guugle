@@ -14,4 +14,4 @@ Guugle to humorystyczna prosta przeglądarka internetowa stworzona na podstawie 
 
 ## Autorzy
 - Aleksander Lis
-- Gabriel Wesołowski
+- Gabriel Wysowski

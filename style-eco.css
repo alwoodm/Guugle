@@ -1,0 +1,74 @@
+@font-face {
+    font-family: g-normal;
+    src: url(Product\ Sans\ Bold.ttf);
+}
+@font-face {
+    font-family: g-italic;
+    src: url(Product\ Sans\ Italic.ttf);
+}
+body{
+    font-family: g-normal;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(76, 108, 13);
+    stroke: black;
+}
+.block1L{
+    border: solid;
+    border-width: 0px 0px 3px 3px;
+    display: inline-block;
+    padding: 3px;
+}
+
+.block1R{
+    border: solid;
+    border-width: 0px 3px 3px 0px;
+    display: inline-block;
+    padding: 3px;
+}
+.linedown{
+    border: solid rgb(76, 108, 13);
+    border-width: 0px 3px 0px 0px;
+    display: inline-block;
+    height: 200px;
+    padding: 2px;
+
+}
+.arrowdown{
+    border: solid;
+    border-width: 0px 3px 3px 0px;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    margin-left: 0.6%;
+    margin-top: -5%;
+}
+.big{
+    transform: scale(20%);
+}
+.range{
+    max-width: 40vw;
+    margin: auto;
+}
+
+.green {
+    color: rgb(1, 161, 1);
+}
+
+.blue {
+    color: rgb(69, 69, 255);
+}
+
+.red {
+    color: rgb(253, 47, 47);
+}
+
+.yellow {
+    color: gold;
+}
+
+.gray {
+    color: rgb(71, 71, 71);
+}

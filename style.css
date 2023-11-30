@@ -1,0 +1,74 @@
+
+.guugle {
+    font-size: 85px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+ 
+sub {
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: italic;
+    margin-left: -3%;
+    
+}
+nav {
+    text-align: center;
+    margin: auto;
+}
+
+.search {
+    margin-top: 1%;
+    height: 50px;
+    width: auto;
+    max-width: 500px;
+    align-items: center;
+    margin: auto;
+}
+
+.green {
+    color: rgb(1, 161, 1);
+}
+
+.blue {
+    color: rgb(69, 69, 255);
+}
+
+.red {
+    color: rgb(253, 47, 47);
+}
+
+.yellow {
+    color: gold;
+}
+
+.gray {
+    color: rgb(71, 71, 71);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.bottonmenu {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #52525228;
+    padding: 10px;
+
+}
+
+.bottomcopy{
+    height: 2px;
+}
+
+#inspiredby {
+    margin-left: 1%;
+}
+
+#settings {
+    text-align: cente;
+}

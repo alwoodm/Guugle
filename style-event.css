@@ -1,0 +1,21 @@
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.square {
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 30px;
+    border-color: black;
+    border-style: outset;
+}
+.text {
+    color: #0022ff;
+    text-align: center;
+    font-size: 49px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
